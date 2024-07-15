@@ -1,8 +1,6 @@
 # Project Name
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Stream](https://img.shields.io/badge/Stream-009EF3?style=for-the-badge&logo=stream&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white)
+MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
 
 ## Tech Stack Used
 
