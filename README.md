@@ -13,7 +13,7 @@ MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
 
 
 ### ![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white) Clerk
-[Clerk](https://clerk.dev/) is an authentication solution designed for modern web applications. It offers a comprehensive suite of authentication features including:
+[Clerk](https://clerk.dev/) is an authentication solution designed for modern web applications.
 
 
 ## Features
