@@ -4,7 +4,7 @@ MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
 
 ## Tech Stack Used
 
-### !(Nextjs)(https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 [Next.js](https://nextjs.org/) is a powerful React framework that provides an optimized environment for building server-rendered and static web applications.
 
 
