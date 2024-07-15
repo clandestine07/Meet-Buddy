@@ -1,6 +1,3 @@
-![MEETING](./images/meeting.png) ![Home Page](./images/meeting.png)
-
-
 # Project Name
 
 MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
