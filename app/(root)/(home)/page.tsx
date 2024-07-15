@@ -19,7 +19,7 @@ function Home() {
     '>
       {/* banner */}
       <div className='h-[300px] w-full rounded-lg bg-hero opacity-80 '>
-          <div className='flex flex-col justify-between h-full max-md:px-5 max-md:py-8 lg:p-11 mt-44'>
+          <div className='flex flex-col justify-between h-full max-md:px-5 max-md:py-8 lg:p-11 mt-44 lg:mt-36'>
             <div className='flex flex-col gap-2 md:pl-3'>
                 <h1 className='text-4xl font-extrabold lg:text-7xl'>
                     {curTime}
