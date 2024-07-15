@@ -1,8 +1,4 @@
-
-(./images/meeting.png)
-(./images/personal.png)
-(./images/join.png)
-(./images/stats.png)
+![MEETING](./images/meeting.png)
 
 
 # Project Name
