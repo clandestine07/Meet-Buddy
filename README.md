@@ -4,16 +4,16 @@ MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
 
 ## Tech Stack Used
 
-### ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) Next.js
-[Next.js](https://nextjs.org/) is a powerful React framework that provides an optimized environment for building server-rendered and static web applications. Key features include:
+### ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[Next.js](https://nextjs.org/) is a powerful React framework that provides an optimized environment for building server-rendered and static web applications.
 
 
-### ![Stream](https://img.shields.io/badge/Stream-009EF3?style=for-the-badge&logo=stream&logoColor=white) Stream
-[Stream](https://getstream.io/) provides APIs and SDKs to build scalable feeds, chat, and activity streams. We use Stream for:
+### ![Stream](https://img.shields.io/badge/Stream-009EF3?style=for-the-badge&logo=stream&logoColor=white)
+[Stream](https://getstream.io/) provides APIs and SDKs to build scalable feeds, chat, and activity streams.
 
 
-### ![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white) Clerk
-[Clerk](https://clerk.dev/) is an authentication solution designed for modern web applications. It offers a comprehensive suite of authentication features including:
+### ![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white)
+[Clerk](https://clerk.dev/) is an authentication solution designed for modern web applications.
 
 
 ## Features
@@ -42,17 +42,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
