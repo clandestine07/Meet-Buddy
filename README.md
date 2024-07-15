@@ -4,15 +4,15 @@ MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
 
 ## Tech Stack Used
 
-### ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) Next.js
+### ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 [Next.js](https://nextjs.org/) is a powerful React framework that provides an optimized environment for building server-rendered and static web applications.
 
 
-### ![Stream](https://img.shields.io/badge/Stream-009EF3?style=for-the-badge&logo=stream&logoColor=white) Stream
+### ![Stream](https://img.shields.io/badge/Stream-009EF3?style=for-the-badge&logo=stream&logoColor=white)
 [Stream](https://getstream.io/) provides APIs and SDKs to build scalable feeds, chat, and activity streams.
 
 
-### ![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white) Clerk
+### ![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white)
 [Clerk](https://clerk.dev/) is an authentication solution designed for modern web applications.
 
 
