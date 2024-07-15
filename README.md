@@ -1,4 +1,4 @@
-![MEETING](./images/meeting.png)
+![MEETING](./images/meeting.png) ![Home Page](./images/meeting.png)
 
 
 # Project Name
