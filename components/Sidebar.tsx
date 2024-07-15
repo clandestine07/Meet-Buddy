@@ -18,7 +18,7 @@ function Sidebar() {
                 w-fit 
                 flex-col
                 justify-between
-                bg-dark-1
+                bg-slate-900
                 p-6
                 pt-28
                 text-white
