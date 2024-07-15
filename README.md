@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Name
+
+MEET BUUDY - AN ONLINE VIDEO CALLING PLATFORM
+
+## Tech Stack Used
+
+### ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) Next.js
+[Next.js](https://nextjs.org/) is a powerful React framework that provides an optimized environment for building server-rendered and static web applications. Key features include:
+
+
+### ![Stream](https://img.shields.io/badge/Stream-009EF3?style=for-the-badge&logo=stream&logoColor=white) Stream
+[Stream](https://getstream.io/) provides APIs and SDKs to build scalable feeds, chat, and activity streams. We use Stream for:
+
+
+### ![Clerk](https://img.shields.io/badge/Clerk-3D4DB7?style=for-the-badge&logo=clerk&logoColor=white) Clerk
+[Clerk](https://clerk.dev/) is an authentication solution designed for modern web applications. It offers a comprehensive suite of authentication features including:
+
+
+## Features
+
+- **Online Meeting:** Host and join online meetings with real-time video and voice communication.
+- **Personal Room:** Create your meeting rooms with unique URLs for easy access and sharing.
+- **call stats:** Stay updated with personalized call stats.
 
 ## Getting Started
 
